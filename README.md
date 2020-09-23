@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science enthusiast and aspiring to become a proficient Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
 
-- 🔭 I’m currently working on [Purchasing-Pattern-in-Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
+- 🔭 I’m currently working on [Plant-Disease-Detection](https://github.com/Nishil07/Plant-disease-detection)
 
 - 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
 
