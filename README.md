@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Plant-Disease-Detection](https://github.com/Nishil07/Plant-disease-detection)
 
-- 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
+- 🌱 I’m currently learning **Computer Vision, Frontend Web Development and Backend development.**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Nishil07](https://www.github.com/Nishil07)
 
